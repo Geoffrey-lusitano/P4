@@ -1030,8 +1030,11 @@ h4 {
         height: 320px;
     }
     .part {
-        padding: 5px 5px 5px 5px;
+        padding: 10px 5px 10px 5px;
         margin: 3px 3px 3px 3px ;
+    }
+    #bloc-8 {
+        line-height: 3;
     }
 }
 
